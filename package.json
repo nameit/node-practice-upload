@@ -1,0 +1,18 @@
+{
+  "name": "node-practice-upload",
+  "version": "1.0.0",
+  "description": "code about upload using node",
+  "main": "index.js",
+  "dependencies": {
+    "formidable": "^1.0.17"
+  },
+  "devDependencies": {
+    "formidable": "^1.0.17"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "yuki",
+  "license": "ISC"
+}
